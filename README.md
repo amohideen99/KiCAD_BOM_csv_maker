@@ -9,7 +9,7 @@ BOM creation tool for KiCAD projects. Makes csv for direct upload to DigiKey.
 
 #### 2. Paste into Excel File
 
-#### 3. Save Excel File as .xls NOT .xlsx
+#### 3. Save Excel File as .xls *NOT .xlsx*
 
 #### 4. Run python script from command line
 ```
