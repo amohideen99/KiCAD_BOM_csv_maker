@@ -7,7 +7,7 @@ from collections import defaultdict
         1. go to KiCad symbol fields and uncheck all "group by..."
         2. select all and copy into Excel file
         3. save Excel file as .xls NOT .xlsx
-        4. go to directory with python script ("Personal STEM Projects"\"BOM Creation Tools")
+        4. go to directory with python script (ie "My PC\Documents\BOM Creation Tools")
         5. run python file with
             argument 1 as the directory for .xls file from KiCad
             argument 2 as output directory for CSV file
