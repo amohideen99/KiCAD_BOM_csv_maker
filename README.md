@@ -1,5 +1,5 @@
-# KiCAD_BOM_csv_maker
-BOM creation tool for KiCAD projects. Makes csv for direct upload to DigiKey.
+# KiCAD BOM .csv Maker
+BOM creation tool for KiCAD projects. Makes .csv file for direct upload to DigiKey, Mouser, etc.
 
 ## Directions for Use
 
